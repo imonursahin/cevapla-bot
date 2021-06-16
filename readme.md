@@ -1,5 +1,3 @@
-# Flutter ❤️
-
 # cevap'la Bot - Mobile App
 
 // <b>Extract the application files to a folder named "cevapla"</b>
